@@ -1,0 +1,21 @@
+body{
+    background-image: url(chicken1.jpeg);
+}
+h1{
+    color: azure;
+    padding: 15px;
+    padding-left: 80px;
+}
+*{
+    color: white;
+    margin-bottom: 20px;
+}
+p{
+    color:white;
+}
+form{
+    padding-left: 70px;
+    width: 350px;
+    margin-top: 50px;
+    margin-right: 90px;
+}

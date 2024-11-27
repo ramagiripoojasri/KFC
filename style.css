@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#out{
+    border: solid 2px;
+    height: 700px;
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+
+}
+h1{
+    color: rgb(20, 1, 1);
+    font-size: 90px;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+    
+}
+#register,#login{
+    height: 60px;
+    width: 150px;
+    background-color: hsla(180, 57%, 95%, 0.941);
+    
+    
+}
+#register{
+    margin-left: 200px;
+    
+}
+#register:hover{
+    background-color: rgb(49, 212, 221);
+}
+#login:hover{
+    background-color:rgb(49, 212, 221) ;
+}
